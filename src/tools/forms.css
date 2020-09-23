@@ -1,0 +1,12 @@
+.form__input.error input{
+	border: 1px solid #FF2C2C;
+}
+.form__input span{
+	display: none;
+	color: #FF2C2C;
+	margin: 8px 0 0 17px;
+}
+.form__input.error span{
+	display: block;
+}
+
